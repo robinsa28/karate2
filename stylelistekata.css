@@ -1,0 +1,31 @@
+body {
+	background: 
+       url("listekata.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 30%;
+	background-position: 0 90%;
+}
+
+h1 {
+  border: 1rem solid;
+  border-color: black;
+  text-align: center;
+  font-size: 100px;
+  font-weight: bold;
+}
+
+h2{
+	margin-left: 70%;
+	margin-top: 10%;
+	font-size: 30px;
+	font-weight: bold;
+	color: red;
+}
+
+p{
+	margin-left: 70%;
+	font-size: 20px;
+}
+
+

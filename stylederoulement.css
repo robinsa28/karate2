@@ -1,0 +1,24 @@
+body {
+	background: 
+       url("tatamis.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: 0 95%;
+	background-size: 50%;
+}
+
+h1 {
+  border: 1rem solid;
+  border-color: black;
+  margin-left: 45%;
+  margin-top: 0%;
+  font-size: 100px;
+  font-weight: bold;
+}
+
+p {
+  border: solid;
+  border-color: black;
+  font-size: 20px;
+  margin-left: 52%;
+}

@@ -1,0 +1,36 @@
+body {
+	background: 
+       url("points.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 0;
+  font-size: 100px;
+  font-weight: bold;
+  color: white;
+}
+
+h2 {
+  text-align: left;
+  margin-top: 20%;
+  font-size: 30px;
+  color: white;
+}
+
+h3 {
+  text-align: right;
+  margin-top: -3.5%;
+  font-size: 30px;
+  color: white;
+}
+
+h4 {
+  text-align: center;
+  margin-top: 10%;
+  font-size: 30px;
+  color: white;
+}

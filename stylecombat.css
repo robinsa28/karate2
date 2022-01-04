@@ -1,0 +1,33 @@
+body {
+	background: 
+	   url("equipement.jpg"),
+	   url("deroulement.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 50% 50%;
+	background-position: 0 80%, 100% 80%;
+}
+
+h1 {
+  text-align: center;
+  border: 1rem solid;
+  border-color: black;
+  font-size: 140px;
+  font-weight: bold;
+}
+
+h2 {
+  text-align: left;
+  margin-left: 20%;
+  margin-top: 10%;
+  font-size: 50px;
+  color: red;
+}
+
+h3 {
+  text-align: right;
+  margin-right: 20%;
+  margin-top: -7%;
+  font-size: 50px;
+  color: red;
+}

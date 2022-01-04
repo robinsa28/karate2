@@ -1,0 +1,24 @@
+body {
+	background: 
+	   url("podium.jpg"),
+       url("ceinture.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: 50% 0, 50% 100%;
+	background-size: 50% 50%;
+}
+
+p {
+  text-align: center;
+  margin-top: 10%;
+  font-size: 50px;
+  color: red;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 7%;
+  font-size: 150px;
+  font-weight: bold;
+}
+

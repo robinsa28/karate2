@@ -1,0 +1,22 @@
+body {
+	background: 
+       url("deroulementcompet.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 0;
+  font-size: 100px;
+  font-weight: bold;
+  color: white;
+}
+
+p {
+  text-align: center;
+  margin-top: 10%;
+  font-size: 20px;
+  color: white;
+}
